@@ -17,3 +17,10 @@
 
 - Thanks to this course, I managed to consolidate and improve the material that I learned in the previous task.
 - Also, now I know more basic commands such as git reset, git revert, git -reflog, git shortlog etc.
+
+###TASK 2
+
+**Linux CLI, and HTTP**![](task_linux_cli/Command-line.png)
+- On this course, I got to know the main commands of the Command Line.
+- The material I studied allows me to create, edit and delete files and folders through the command line.
+- Also, I got acquainted with the structure of the URL, methods and status codes - three pillars of communication using HTTP.
