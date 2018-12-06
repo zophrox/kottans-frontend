@@ -45,4 +45,19 @@
 - Yet, after completing this course, I would recommend Kottans to suggest that students first pass the "HTML Academy", and then offer students a course on Udacity.
 
 
+### TASK 5
+
+ **Responsive Web Design**![](task_responsive_web_design/Optimizations_udacity.png)
+
+![](task_responsive_web_design/flexbox_froggy.png)
+
+- I've learned to the basics of well-sized elements for mobile,
+using breakpoints and mediaqueries, tochange the page layout for different devices.
+- At this point, i've got all the tools and concepts you need to build amazing responsive sites.
+- I was pleased with the frog game based on the use of flex elements. I gladly passed it, remembering all the flex capabilities.
+
+
+
+
+
 
