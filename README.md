@@ -56,6 +56,15 @@ using breakpoints and mediaqueries, tochange the page layout for different devic
 - At this point, i've got all the tools and concepts you need to build amazing responsive sites.
 - I was pleased with the frog game based on the use of flex elements. I gladly passed it, remembering all the flex capabilities.
 
+### TASK 6
+**JS Basics**![](task_js_basics/js_basis_udacity.png)
+
+![](task_js_basics/free_code_camp.png)
+
+ - Thanks to this course, I became acquainted with the basics of JS. Theoretically (and partially practically) I know what is a variable, loops (while and for), a function, an array, and an object.
+ - More practical to master knowledge, mainly on using the array and its properties and methods, helped the freecodecamp.
+ - In general, in my opinion, these basic knowledge is sufficient for continuing education in the field of JS.
+
 
 
 
