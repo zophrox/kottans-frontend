@@ -65,7 +65,14 @@ using breakpoints and mediaqueries, tochange the page layout for different devic
  - More practical to master knowledge, mainly on using the array and its properties and methods, helped the freecodecamp.
  - In general, in my opinion, these basic knowledge is sufficient for continuing education in the field of JS.
 
+### TASK 6
+**DOM**
+![](task_js_dom/JS_and_the_DOM.png)
 
+![](task_js_dom/FreeCodeCamp.png)
+
+- In this course, I discovered the world of js. I understood the principles of the DOM (Document Object Model).
+- Studied the main properties of DOM such as:getElementById, getElementsByClassName,getElementsByTagName, Node, querySelector, innerHTML, textContent, createElement, appendChild, insertAdjacentHTML, style.cssText etc.
 
 
 
