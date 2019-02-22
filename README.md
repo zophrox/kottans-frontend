@@ -74,13 +74,17 @@ using breakpoints and mediaqueries, tochange the page layout for different devic
 - I learned about the NOSE interface and the Element interface.
 - I learned new DOM methods that allow you to modify and manage the content of a page.
 
-[My practical task](https://zophrox.github.io/first-practice-dom/)
+[DOM practical task](https://zophrox.github.io/first-practice-dom/)
 
 ## Object Oriented JS
 ![](task_js_oop/udasity_oop.png)
 
  - I learned about the most important and complex JavaScript language features, including areas, closures, keyword this and prototype chains.
  - I also learned a lot of different code reuse patterns that are built on top of those features, such as function decorators and all of the major classing and subclassing patterns that are available within JavaScript.
+
+## Memory Pair Game
+
+[Pair Game](https://zophrox.github.io/pair-game/)
 
 
 
